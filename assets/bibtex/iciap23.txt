@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/iciap/MartiniSC23,
+  author       = {Matteo Martini and
+                  Fabio Solari and
+                  Manuela Chessa},
+  editor       = {Gian Luca Foresti and
+                  Andrea Fusiello and
+                  Edwin R. Hancock},
+  title        = {Obstacle Avoidance and Interaction in Extended Reality: An Approach
+                  Based on 3D Object Detection},
+  booktitle    = {Image Analysis and Processing - {ICIAP} 2023 - 22nd International
+                  Conference, {ICIAP} 2023, Udine, Italy, September 11-15, 2023, Proceedings,
+                  Part {II}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14234},
+  pages        = {111--122},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/978-3-031-43153-1\_10},
+  doi          = {10.1007/978-3-031-43153-1\_10},
+  timestamp    = {Thu, 14 Sep 2023 20:25:51 +0200},
+  biburl       = {https://dblp.org/rec/conf/iciap/MartiniSC23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
