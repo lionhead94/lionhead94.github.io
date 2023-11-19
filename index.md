@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [DIBRIS][dibris], the department of Informatics, Bioengineering, Robotics and Systems Engineering at the [University of Genoa][unige].
+I am a Ph.D. student at [DIBRIS][dibris], [University of Genoa][unige].
+I am a member of the [Perception and Interaction Lab][pilab], and I work under the guidance of Prof. Manuela Chessa, Prof. Fabio Solari and Prof. Danilo Pani (University of Cagliari).
 
 ## Research Interests
-- **Virtual/Mixed/Augmented Reality:**
-- **Human-Computer Interaction:** meta-learning, incremental learning, transfer learning
-- **Computer Vision:** 2D/3D object detection, pose estimation
+- **Virtual/Mixed/Augmented Reality**
+- **Human-Computer Interaction**
+- **Computer Vision**
 
 ## News
 
