@@ -22,8 +22,8 @@ main:
       conference_short: HUCAPP
       conference: 9th International Conference on Human Computer Interaction Theory and Applications <strong>(HUCAPP)</strong>, 2025.
       pdf: https://www.scitepress.org/Papers/2025/131336/131336.pdf
-      bibtex: /assets/bibtex/vr25.txt
-      image: ./assets/img/vr25.png
+      bibtex: /assets/bibtex/hucapp25.txt
+      image: ./assets/img/hucapp25.png
       notes: Conference paper
 
     - title: "Designing an immersive virtual reality scenario for social anxiety elicitation and modeling: a preliminary evaluation"
