@@ -13,7 +13,7 @@ I am a member of the [Perception and Interaction Lab][pilab], and I work under t
 - **VR-Based Rehabilitation**
 - **Computer Vision**
 
-## News
+<!-- ## News -->
 
 <!-- - **[Jul. 2023]** Our paper about incremental learning is accepted to ICIAP 2023. -->
 
