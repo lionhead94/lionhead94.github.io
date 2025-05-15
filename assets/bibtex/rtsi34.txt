@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/rtsi/ChessaGHMPSV24,
+  author       = {Manuela Chessa and
+                  Lorenzo Gerini and
+                  Razeen Hussain and
+                  Matteo Martini and
+                  Marianna Pizzo and
+                  Fabio Solari and
+                  Eros Viola},
+  title        = {Extended Reality and Artificial Intelligence for Exergaming: Opportunities
+                  and Open Challenges for Rehabilitation and Cognitive Training},
+  booktitle    = {8th {IEEE} Forum on Research and Technologies for Society and Industry
+                  Innovation, {RTSI} 2024, Milano, Italy, September 18-20, 2024},
+  pages        = {357--362},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/RTSI61910.2024.10761257},
+  doi          = {10.1109/RTSI61910.2024.10761257},
+  timestamp    = {Thu, 01 May 2025 20:25:46 +0200},
+  biburl       = {https://dblp.org/rec/conf/rtsi/ChessaGHMPSV24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

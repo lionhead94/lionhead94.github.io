@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/gamesem/ViolaMSC24,
+  author       = {Eros Viola and
+                  Matteo Martini and
+                  Fabio Solari and
+                  Manuela Chessa},
+  title        = {{IMMERSE:} IMMersive Environment for Representing Self-Avatar Easily},
+  booktitle    = {{IEEE} Gaming, Entertainment, and Media Conference, {GEM} 2024, Turin,
+                  Italy, June 5-7, 2024},
+  pages        = {1--6},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/GEM61861.2024.10585468},
+  doi          = {10.1109/GEM61861.2024.10585468},
+  timestamp    = {Thu, 01 May 2025 20:21:47 +0200},
+  biburl       = {https://dblp.org/rec/conf/gamesem/ViolaMSC24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

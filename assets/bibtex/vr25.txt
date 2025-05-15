@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10973041,
+  author={Chessa, Manuela and Chessa, Michela and Gerini, Lorenzo and Martini, Matteo and Naneva, Kaloyana and Pizzo, Marianna and Solari, Fabio and Zeppini, Paolo},
+  booktitle={2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)},
+  title={Cooperation in Virtual Reality: Exploring Environmental Decision-Making through a Real-Effort Threshold Public Goods Game},
+  year={2025},
+  volume={},
+  number={},
+  pages={1538-1539},
+  keywords={Three-dimensional displays;Conferences;Decision making;Collaboration;Virtual environments;Focusing;Games;User interfaces;Recycling;Collaborative Virtual Environments;Threshold Public Goods Game;Residual Municipal Waste Target},
+  doi={10.1109/VRW66409.2025.00414}}

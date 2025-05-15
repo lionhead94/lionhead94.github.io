@@ -1,22 +1,74 @@
 main:
+    - title: "Virtual Reality as a Tool for Upper Limb Rehabilitation in Rett Syndrome: Reducing Stereotypies and Improving Motor Skills"
+      authors: Rosa Angela Fabio, Martina Semino, Michela Perina, Matteo Martini, Emanuela Riccio, Giulia Pili, Danilo Pani, Manuela Chessa
+      conference_short: Pediatric Reports
+      conference: MDPI Pediatric Reports, 2025.
+      pdf: https://www.mdpi.com/2036-7503/17/2/49
+      bibtex: /assets/bibtex/pedrep25.txt
+      image: ./assets/img/pedrep25.png
+      notes: Journal paper
 
-  - title: "Obstacle Avoidance and Interaction in Extended Reality: An Approach based on 3D Object Detection"
-    authors: Matteo Martini, Fabio Solari, Manuela Chessa
-    conference_short: ICIAP
-    conference: International Conference on Image Analysis and Processing <strong>(ICIAP)</strong>, 2023.
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-43153-1_10
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: /assets/bibtex/iciap23.txt
-    image: ./assets/img/iciap23.jpg
-    notes: Poster
+    - title: "Cooperation in Virtual Reality: Exploring Environmental Decision-Making through a Real-Effort Threshold Public Goods Game"
+      authors: Manuela Chessa, Michela Chessa, Lorenzo Gerini, Matteo Martini, Kaloyana Naneva, Marianna Pizzo
+      conference_short: IEEE VRW
+      conference: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops <strong>(VRW)</strong>, 2025.
+      pdf: https://ieeexplore.ieee.org/document/10973041
+      bibtex: /assets/bibtex/vr25.txt
+      image: ./assets/img/vr25.png
+      notes: Contest
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+    - title: "Immersive versus Non-Immersive Virtual Reality Environments: Comparing Different Visualization Modalities in a Cognitive-Motor Dual-Task"
+      authors: Marianna Pizzo, Matteo Martini, Fabio Solari, Manuela Chessa
+      conference_short: HUCAPP
+      conference: 9th International Conference on Human Computer Interaction Theory and Applications <strong>(HUCAPP)</strong>, 2025.
+      pdf: https://www.scitepress.org/Papers/2025/131336/131336.pdf
+      bibtex: /assets/bibtex/vr25.txt
+      image: ./assets/img/vr25.png
+      notes: Conference paper
+
+    - title: "Designing an immersive virtual reality scenario for social anxiety elicitation and modeling: a preliminary evaluation"
+      authors: Matteo Martini, Eros Viola, Francesco Bossi, Sergio Frumento, Alessio Iannizzotto, Sara Said, Alejandro Luis Callara, Fabio Solari, Enzo Pasquale Scilingo, Alberto Greco, Danilo Menicucci, Manuela Chessa
+      conference_short: IEEE MetroXRAINE
+      conference: IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering <strong>(MetroXRAINE)</strong>, 2024.
+      pdf: https://ieeexplore.ieee.org/abstract/document/10761257/
+      bibtex: /assets/bibtex/rtsi24.txt
+      image: ./assets/img/metroXRAINE24.png
+      notes: Conference paper
+
+    - title: "Immerse: Immersive environment for representing self-avatar easily"
+      authors: Eros Viola, Matteo Martini, Fabio Solari, Manuela Chessa
+      conference_short: IEEE GEM
+      conference: IEEE Gaming, Entertainment, and Media Conference <strong>(GEM)</strong>, 2024.
+      pdf: https://ieeexplore.ieee.org/abstract/document/10585468
+      bibtex: /assets/bibtex/gem24.txt
+      image: ./assets/img/gem24.png
+      notes: Conference paper
+
+    - title: "Extended Reality and Artificial Intelligence for Exergaming: Opportunities and Open Challenges for Rehabilitation and Cognitive Training"
+      authors: Manuela Chessa, Lorenzo Gerini, Razeen Hussain, Matteo Martini, Marianna Pizzo, Fabio Solari, Eros Viola
+      conference_short: IEEE RTSI
+      conference: IEEE 8th Forum on Research and Technologies for Society and Industry Innovation <strong>(RTSI)</strong>, 2024.
+      pdf: https://ieeexplore.ieee.org/abstract/document/10761257/
+      bibtex: /assets/bibtex/rtsi24.txt
+      image: ./assets/img/rtsi24.png
+      notes: Conference paper
+
+    - title: "Obstacle Avoidance and Interaction in Extended Reality: An Approach based on 3D Object Detection"
+      authors: Matteo Martini, Fabio Solari, Manuela Chessa
+      conference_short: ICIAP
+      conference: International Conference on Image Analysis and Processing <strong>(ICIAP)</strong>, 2023.
+      pdf: https://link.springer.com/chapter/10.1007/978-3-031-43153-1_10
+      bibtex: /assets/bibtex/iciap23.txt
+      image: ./assets/img/iciap23.jpg
+      notes: Poster
+
+    # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    #   conference_short: CVPR
+    #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+    #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #   notes: Oral Presentation
+    #   image: ./assets/img/teaser_example.png

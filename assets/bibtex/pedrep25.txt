@@ -1,0 +1,15 @@
+
+@Article{pediatric17020049,
+    AUTHOR = {Fabio, Rosa Angela and Semino, Martina and Perina, Michela and Martini, Matteo and Riccio, Emanuela and Pili, Giulia and Pani, Danilo and Chessa, Manuela},
+    TITLE = {Virtual Reality as a Tool for Upper Limb Rehabilitation in Rett Syndrome: Reducing Stereotypies and Improving Motor Skills},
+    JOURNAL = {Pediatric Reports},
+    VOLUME = {17},
+    YEAR = {2025},
+    NUMBER = {2},
+    ARTICLE-NUMBER = {49},
+    URL = {https://www.mdpi.com/2036-7503/17/2/49},
+    PubMedID = {40278529},
+    ISSN = {2036-7503},
+    ABSTRACT = {Background/Objectives: Rett Syndrome (RTT) is a rare neurodevelopmental disorder that causes the loss of motor, communicative, and cognitive skills. While no cure exists, rehabilitation plays a crucial role in improving quality of life. Virtual Reality (VR) has shown promise in enhancing motor function and reducing stereotypic behaviors in RTT. This study aims to assess the impact of VR training on upper limb motor skills in RTT patients, focusing on reaching and hand-opening tasks, as well as examining its role in motivation and engagement during rehabilitation. Methods: Twenty RTT patients (aged 5–33) were randomly assigned to an experimental group (VR training) and a control group (standard rehabilitation). Pre- and post-tests evaluated motor skills and motivation in both VR and real-world contexts. The VR training involved 40 sessions over 8 weeks, focusing on fine motor tasks. Non-parametric statistical methods were used to analyze the data. Results: Results indicated significant improvements in the experimental group for motor parameters, including reduced stereotypy intensity and frequency, faster response times, and increased correct performance. These improvements were consistent across VR and ecological conditions. Moreover, attention time increased, while the number of aids required decreased, highlighting enhanced engagement and independence. However, motivation levels remained stable throughout the sessions. Conclusions: This study demonstrates the potential of VR as a tool for RTT rehabilitation, addressing both motor and engagement challenges. Future research should explore the customization of VR environments to maximize the generalization of skills and sustain motivation over extended training periods.},
+    DOI = {10.3390/pediatric17020049}
+}

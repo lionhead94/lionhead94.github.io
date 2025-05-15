@@ -1,0 +1,30 @@
+@inproceedings{DBLP:conf/visigrapp/PizzoMSC25,
+  author       = {Marianna Pizzo and
+                  Matteo Martini and
+                  Fabio Solari and
+                  Manuela Chessa},
+  editor       = {Thomas Bashford{-}Rogers and
+                  Daniel Meneveaux and
+                  Mehdi Ammi and
+                  Mounia Ziat and
+                  Stefan J{\"{a}}nicke and
+                  Helen C. Purchase and
+                  Petia Radeva and
+                  Antonino Furnari and
+                  Kadi Bouatouch and
+                  A. Augusto de Sousa},
+  title        = {Immersive versus Non-Immersive Virtual Reality Environments: Comparing
+                  Different Visualization Modalities in a Cognitive-Motor Dual-Task},
+  booktitle    = {Proceedings of the 20th International Joint Conference on Computer
+                  Vision, Imaging and Computer Graphics Theory and Applications, {VISIGRAPP}
+                  2025 - Volume 1: GRAPP, {HUCAPP} and IVAPP, Porto, Portugal, February
+                  26-28, 2025},
+  pages        = {561--568},
+  publisher    = {{SCITEPRESS}},
+  year         = {2025},
+  url          = {https://doi.org/10.5220/0013133600003912},
+  doi          = {10.5220/0013133600003912},
+  timestamp    = {Tue, 15 Apr 2025 11:34:13 +0200},
+  biburl       = {https://dblp.org/rec/conf/visigrapp/PizzoMSC25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
