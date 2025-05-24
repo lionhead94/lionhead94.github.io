@@ -1,10 +1,27 @@
-@INPROCEEDINGS{10761257,
-  author={Chessa, Manuela and Gerini, Lorenzo and Hussain, Razeen and Martini, Matteo and Pizzo, Marianna and Solari, Fabio and Viola, Eros},
-  booktitle={2024 IEEE 8th Forum on Research and Technologies for Society and Industry Innovation (RTSI)},
-  title={Extended Reality and Artificial Intelligence for Exergaming: Opportunities and Open Challenges for Rehabilitation and Cognitive Training},
-  year={2024},
-  volume={},
-  number={},
-  pages={357-362},
-  keywords={Training;Industries;Technological innovation;Extended reality;Mixed reality;Medical services;Games;Clinical trials;Software;Hardware;Virtual Reality;Augmented Reality;Mixed Re-ality;eXtended Reality;healthcare},
-  doi={10.1109/RTSI61910.2024.10761257}}
+@inproceedings{DBLP:conf/metroxraine/MartiniVBFISCSSGMC24,
+  author       = {Matteo Martini and
+                  Eros Viola and
+                  Francesco Bossi and
+                  Sergio Frumento and
+                  Alessio Iannizzotto and
+                  Sara Said and
+                  Alejandro Luis Callara and
+                  Fabio Solari and
+                  Enzo Pasquale Scilingo and
+                  Alberto Greco and
+                  Danilo Menicucci and
+                  Manuela Chessa},
+  title        = {Designing an Immersive Virtual Reality Scenario for Social Anxiety
+                  Elicitation and Modeling: {A} Preliminary Evaluation},
+  booktitle    = {{IEEE} International Conference on Metrology for eXtended Reality,
+                  Artificial Intelligence and Neural Engineering, MetroXRAINE 2024,
+                  St Albans, United Kingdom, October 21-23, 2024},
+  pages        = {435--440},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/MetroXRAINE62247.2024.10797177},
+  doi          = {10.1109/METROXRAINE62247.2024.10797177},
+  timestamp    = {Thu, 01 May 2025 20:25:09 +0200},
+  biburl       = {https://dblp.org/rec/conf/metroxraine/MartiniVBFISCSSGMC24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
