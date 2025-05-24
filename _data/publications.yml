@@ -30,7 +30,7 @@ main:
       authors: Matteo Martini, Eros Viola, Francesco Bossi, Sergio Frumento, Alessio Iannizzotto, Sara Said, Alejandro Luis Callara, Fabio Solari, Enzo Pasquale Scilingo, Alberto Greco, Danilo Menicucci, Manuela Chessa
       conference_short: IEEE MetroXRAINE
       conference: IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering <strong>(MetroXRAINE)</strong>, 2024.
-      pdf: https://ieeexplore.ieee.org/abstract/document/10761257/
+      pdf: https://ieeexplore.ieee.org/document/10797177
       bibtex: /assets/bibtex/metro24.txt
       image: ./assets/img/metroXRAINE24.png
       notes: Conference paper
