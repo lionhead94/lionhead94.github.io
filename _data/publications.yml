@@ -31,7 +31,7 @@ main:
       conference_short: IEEE MetroXRAINE
       conference: IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering <strong>(MetroXRAINE)</strong>, 2024.
       pdf: https://ieeexplore.ieee.org/abstract/document/10761257/
-      bibtex: /assets/bibtex/rtsi24.txt
+      bibtex: /assets/bibtex/metro24.txt
       image: ./assets/img/metroXRAINE24.png
       notes: Conference paper
 

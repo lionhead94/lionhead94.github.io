@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10761257,
+  author={Chessa, Manuela and Gerini, Lorenzo and Hussain, Razeen and Martini, Matteo and Pizzo, Marianna and Solari, Fabio and Viola, Eros},
+  booktitle={2024 IEEE 8th Forum on Research and Technologies for Society and Industry Innovation (RTSI)},
+  title={Extended Reality and Artificial Intelligence for Exergaming: Opportunities and Open Challenges for Rehabilitation and Cognitive Training},
+  year={2024},
+  volume={},
+  number={},
+  pages={357-362},
+  keywords={Training;Industries;Technological innovation;Extended reality;Mixed reality;Medical services;Games;Clinical trials;Software;Hardware;Virtual Reality;Augmented Reality;Mixed Re-ality;eXtended Reality;healthcare},
+  doi={10.1109/RTSI61910.2024.10761257}}
