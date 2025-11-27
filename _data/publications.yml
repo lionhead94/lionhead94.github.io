@@ -6,7 +6,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/11236241
     bibtex: /assets/bibtex/25ismar.txt
     image: /assets/img/25ismar.png
-    notes: Conference paper
+    notes: Conference paper, Best long paper award 🏅
 
   - title: "Deep Learning-Based Classification of Social Anxiety Disorder Using Continuous Self-Reported Anxiety in Virtual Reality"
     authors: Marco Pardini, Sergio Frumento, Matteo Martini, Gianluca Rho, Valerio Vatteroni, Krishant Tharun, Martina Alaimo, Federico A Galatolo, Martina De Marinis, Enzo Pasquale Scilingo, Danilo Menicucci, Mario GCA Cimino, Manuela Chessa, Alberto Greco
@@ -51,7 +51,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10797177
     bibtex: /assets/bibtex/24metro.txt
     image: ./assets/img/24metro.png
-    notes: Conference paper
+    notes: Conference paper, Best demo award 🏅
 
   - title: "Immerse: Immersive environment for representing self-avatar easily"
     authors: Eros Viola, Matteo Martini, Fabio Solari, Manuela Chessa
