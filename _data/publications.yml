@@ -28,12 +28,12 @@ main:
 
   - title: "Cooperation in Virtual Reality: Exploring Environmental Decision-Making through a Real-Effort Threshold Public Goods Game"
     authors: Manuela Chessa, Michela Chessa, Lorenzo Gerini, Matteo Martini, Kaloyana Naneva, Marianna Pizzo
-    conference_short: IEEE VRW
-    conference: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops <strong>(VRW)</strong>, 2025.
+    conference_short: IEEE VR, 3DUI Contest
+    conference: IEEE Conference on Virtual Reality and 3D User Interfaces (Abstracts and Workshops) <strong>(VRW)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/document/10973041
     bibtex: /assets/bibtex/25vr.txt
     image: ./assets/img/25vr.png
-    notes: Contest
+    notes: Conference paper
 
   - title: "Immersive versus Non-Immersive Virtual Reality Environments: Comparing Different Visualization Modalities in a Cognitive-Motor Dual-Task"
     authors: Marianna Pizzo, Matteo Martini, Fabio Solari, Manuela Chessa
