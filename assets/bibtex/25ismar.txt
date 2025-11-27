@@ -1,0 +1,11 @@
+@inproceedings{11236241,
+    author={Martini, Matteo and Pili, Giulia and Semino, Martina and Perina, Michela and Riccio, Emanuela and Fabio, Rosa Angela and Pani, Danilo and Chessa, Manuela},
+    booktitle={2025 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)},
+    title={A Virtual Room for Rett Syndrome: Design and Implementation of an Exergame for Upper-Limb Rehabilitation},
+    year={2025},
+    volume={},
+    number={},
+    pages={382-389},
+    keywords={Training;Limbs;Protocols;Tracking;Motors;Market research;Cameras;Augmented reality;Rett Syndrome;Virtual Reality;Exergames;Rehabilitation;Marker-less Body Tracking},
+    doi={10.1109/ISMAR-Adjunct68609.2025.00079}
+}

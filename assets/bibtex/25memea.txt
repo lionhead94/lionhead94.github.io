@@ -1,0 +1,11 @@
+@inproceedings{11068082,
+    author={Pardini, Marco and Frumento, Sergio and Martini, Matteo and Rho, Gianluca and Vatteroni, Valerio and Tharun, Krishant and Alaimo, Martina and Galatolo, Federico A. and De Marinis, Martina and Scilingo, Enzo Pasquale and Menicucci, Danilo and Cimino, Mario G.C.A. and Chessa, Manuela and Greco, Alberto},
+    booktitle={2025 IEEE Medical Measurements & Applications (MeMeA)},
+    title={Deep Learning-Based Classification of Social Anxiety Disorder Using Continuous Self-Reported Anxiety in Virtual Reality},
+    year={2025},
+    volume={},
+    number={},
+    pages={1-6},
+    keywords={Solid modeling;Anxiety disorders;Virtual environments;Feature extraction;Real-time systems;Trajectory;Convolutional neural networks;Biomedical monitoring;Social Anxiety Disorder;Virtual Reality;1D-CNN;Leave-One-Subject-Out;Anxiety Classification},
+    doi={10.1109/MeMeA65319.2025.11068082}
+}
