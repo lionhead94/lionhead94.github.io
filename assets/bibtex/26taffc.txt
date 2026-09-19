@@ -1,0 +1,14 @@
+@article{Pardini_2026,
+    author={Pardini, Marco and Frumento, Sergio and Martini, Matteo and Alaimo, Martina and Rho, Gianluca and Paparo, Noemi and Cimino, Mario G. C. A. and Scilingo, Enzo Pasquale and Menicucci, Danilo and Chessa, Manuela and Greco, Alberto},
+    title={Multimodal Classification of Social Anxiety Using Continuous Self-Rating and Physiological Data in Virtual Reality},
+    journal={IEEE Transactions on Affective Computing},
+    volume={17},
+    number={3},
+    pages={2689--2700},
+    year={2026},
+    month={July},
+    issn={1949-3045},
+    publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+    url={https://doi.org/10.1109/TAFFC.2026.3706297},
+    doi={10.1109/TAFFC.2026.3706297}
+}

@@ -1,0 +1,14 @@
+@inproceedings{Frumento_2026,
+    author={Frumento, Sergio and Paparo, Noemi and Briglia, Martina and Martini, Matteo and Chessa, Manuela and Greco, Alberto and Menicucci, Danilo},
+    title={Adaptive exposure therapy for Social Anxiety Disorder: a preliminary validation in Virtual Reality},
+    booktitle={Proceedings of the 2026 European Conference on Cognitive Ergonomics},
+    series={ECCE 2026},
+    year={2026},
+    month={September},
+    pages={98--104},
+    address={Siena, Italy},
+    publisher={ACM},
+    isbn={979-8-4007-2515-9},
+    url={https://doi.org/10.1145/3822301.3822334},
+    doi={10.1145/3822301.3822334}
+}

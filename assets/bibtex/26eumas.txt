@@ -1,0 +1,14 @@
+@inbook{Briola_2026,
+    author={Briola, Daniela and Vizzari, Giuseppe and Mirra, Giuseppe and Gatti, Andrea and Martini, Matteo and Mascardi, Viviana},
+    title={Integrating JaCa-Unity in VEsNA for Behavioural Realistic VR Simulations},
+    booktitle={Multi-Agent Systems},
+    series={Lecture Notes in Artificial Intelligence},
+    volume={16258},
+    pages={86--105},
+    year={2026},
+    publisher={Springer Nature Switzerland},
+    isbn={978-3-032-22817-8},
+    issn={1611-3349},
+    url={https://doi.org/10.1007/978-3-032-22817-8_6},
+    doi={10.1007/978-3-032-22817-8_6}
+}

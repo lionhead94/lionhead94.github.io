@@ -1,0 +1,7 @@
+@inproceedings{defilippis2026feasibility,
+    author={De Filippis, Andrea and Martini, Matteo and Perina, Michela and Semino, Martina and Delzanno, Giorgio and Fabio, Rosa Angela and Moltani, Alessia and Solari, Fabio and Chessa, Manuela},
+    booktitle={2026 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). XRehab Workshop},
+    title={Feasibility Evaluation of a Semi-Immersive Virtual Reality System with Wearable Physiological Monitoring for Gait Rehabilitation in Rett Syndrome},
+    year={2026},
+    keywords={XR for rehabilitation;Motor rehabilitation;Semi-immersive Virtual Reality;Treadmill training;Physiological monitoring}
+}

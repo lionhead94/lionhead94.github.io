@@ -1,4 +1,49 @@
 main:
+  - title: "Feasibility Evaluation of a Semi-Immersive Virtual Reality System with Wearable Physiological Monitoring for Gait Rehabilitation in Rett Syndrome"
+    authors: Andrea De Filippis, Matteo Martini, Michela Perina, Martina Semino, Giorgio Delzanno, Rosa Angela Fabio, Alessia Moltani, Fabio Solari, Manuela Chessa
+    conference_short: IEEE ISMAR, XRehab Workshop
+    conference: IEEE International Symposium on Mixed and Augmented Reality <strong>ISMAR</strong>. XRehab Workshop, 2026
+    pdf: "#"
+    bibtex: /assets/bibtex/26ismar.txt
+    image: /assets/img/26ismar.png
+    notes: Conference paper
+
+  - title: "Adaptive Exposure Therapy for Social Anxiety Disorder: a Preliminary Validation in Virtual Reality"
+    authors: Sergio Frumento, Noemi Paparo, Martina Briglia, Matteo Martini, Manuela Chessa, Alberto Greco, Danilo Menicucci
+    conference_short: ACM ECCE
+    conference: European Conference on Cognitive Ergonomics <strong>(ECCE)</strong>, Siena, Italy, 2026.
+    pdf: https://doi.org/10.1145/3822301.3822334
+    bibtex: /assets/bibtex/26ecce.txt
+    image: /assets/img/26ecce.png
+    notes: Conference paper
+
+  - title: "Multimodal Classification of Social Anxiety Using Continuous Self-Rating and Physiological Data in Virtual Reality"
+    authors: Marco Pardini, Sergio Frumento, Matteo Martini, Martina Alaimo, Gianluca Rho, Noemi Paparo, Mario G. C. A. Cimino, Enzo Pasquale Scilingo, Danilo Menicucci, Manuela Chessa, Alberto Greco
+    conference_short: IEEE TAFFC
+    conference: IEEE Transactions on Affective Computing <strong>(TAFFC)</strong>, vol. 17, no. 3, 2026.
+    pdf: https://doi.org/10.1109/TAFFC.2026.3706297
+    bibtex: /assets/bibtex/26taffc.txt
+    image: /assets/img/26taffc.png
+    notes: Journal paper
+
+  - title: "Immersive VR for the Assessment of Spatial Skills in Adolescents: Performance, Gender Effects, and Links to Computational Thinking"
+    authors: Lorenzo Gerini, Matteo Martini, Giorgio Delzanno, Giovanna Guerrini, Fabio Solari, Manuela Chessa
+    conference_short: IEEE TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics <strong>(TVCG)</strong>, vol. 32, no. 5, 2026.
+    pdf: https://doi.org/10.1109/TVCG.2026.3679088
+    bibtex: /assets/bibtex/26tvcg.txt
+    image: /assets/img/26tvcg.png
+    notes: Journal paper, Equal contribution
+
+  - title: "Integrating JaCa-Unity in VEsNA for Behavioural Realistic VR Simulations"
+    authors: Daniela Briola, Giuseppe Vizzari, Giuseppe Mirra, Andrea Gatti, Matteo Martini, Viviana Mascardi
+    conference_short: EUMAS
+    conference: European Conference on Multi-Agent Systems <strong>(EUMAS)</strong>, LNAI 16258, 2026.
+    pdf: https://doi.org/10.1007/978-3-032-22817-8_6
+    bibtex: /assets/bibtex/26eumas.txt
+    image: /assets/img/26eumas.png
+    notes: Conference paper
+
   - title: "A Virtual Room for Rett Syndrome: Design and Implementation of an Exergame for Upper-Limb Rehabilitation"
     authors: Matteo Martini, Giulia Pili, Martina Semino, Michela Perina, Emanuela Riccio, Rosa Angela Fabio, Danilo Pani, Manuela Chessa
     conference_short: IEEE ISMAR, XRehab Workshop

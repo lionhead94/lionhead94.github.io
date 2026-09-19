@@ -1,0 +1,14 @@
+@article{Gerini_2026,
+    author={Gerini, Lorenzo and Martini, Matteo and Delzanno, Giorgio and Guerrini, Giovanna and Solari, Fabio and Chessa, Manuela},
+    title={Immersive VR for the Assessment of Spatial Skills in Adolescents: Performance, Gender Effects, and Links to Computational Thinking},
+    journal={IEEE Transactions on Visualization and Computer Graphics},
+    volume={32},
+    number={5},
+    pages={4471--4481},
+    year={2026},
+    month={May},
+    issn={2160-9306},
+    publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+    url={https://doi.org/10.1109/TVCG.2026.3679088},
+    doi={10.1109/TVCG.2026.3679088}
+}
