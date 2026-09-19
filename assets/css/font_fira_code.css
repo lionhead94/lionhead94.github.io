@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+/* Fira Code everywhere: the site reads as a terminal, which is what the gruvbox
+   palette is for. Colours are not set here - minimal-light-base owns those
+   through the --gb-* tokens, and this file loads before it. */
+body {
+  padding: 50px;
+  font: 14px/1.6 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-weight: 400;
+  /* Fira Code's reason to exist: ->, =>, != render as single glyphs */
+  font-variant-ligatures: contextual;
+}
+
+/* The slots minimal-light-base leaves open with var(--font-mono, <fallback>).
+   Setting it here rather than in the base keeps the other two font variants on
+   their own monospace stacks, and works regardless of stylesheet order. */
+:root {
+  --font-mono: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}

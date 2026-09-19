@@ -138,7 +138,7 @@ body {
 
 email {
     font-size: 14px;
-    font-family: "Ubuntu Mono";
+    font-family: var(--font-mono, "Ubuntu Mono");
 }
 
 .icon-button i{
@@ -248,6 +248,18 @@ h2 {
   font-size: 157%;
 }
 
+/* A heading belongs to what follows it, so the space above has to be clearly
+   larger than the space below - at 20px above / 15px below it just floated
+   between two blocks. Scoped to section: the name in the header is an h1 too
+   and keeps its own spacing. */
+section h1, section h2, section h3, section h4, section h5, section h6 {
+  margin-top: 2.2rem;
+}
+
+section > :first-child {
+  margin-top: 0;
+}
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
@@ -293,7 +305,8 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: var(--font-mono, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal,
+               Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace);
   color:var(--gb-fg);
 }
 
@@ -572,5 +585,5 @@ footer {
   margin-top: 10px;
   margin-left: 0px;
   display:none;
-  font-family: monospace;
+  font-family: var(--font-mono, monospace);
 }

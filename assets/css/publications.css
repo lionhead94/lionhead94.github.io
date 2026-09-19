@@ -22,6 +22,9 @@ blockquote { background: var(--gb-bg); border-left: 2px solid var(--gb-accent); 
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
+/* Pulls the list up against its heading; .publications below adds 2rem back. */
+h2#publications { margin-bottom: -15px; }
+
 .publications { margin-top: 2rem; }
 
 .publications h1 { color: var(--gb-accent); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
