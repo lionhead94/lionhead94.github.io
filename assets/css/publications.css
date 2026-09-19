@@ -12,29 +12,25 @@
 }
 
 .badge {
-    color: #fff !important;
+    color: var(--gb-on-accent) !important;
     border-radius: 0.125rem;
-    -webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
-    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    -webkit-box-shadow: 0 2px 5px 0 var(--gb-shadow);
+    box-shadow: 0 2px 5px 0 var(--gb-shadow);
 }
 
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #002D72; --global-hover-color: #ffb81c; --global-footer-bg-color: #1c1c1c; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
-
-@media (prefers-color-scheme: dark) { :root { --global-theme-color: rgb(36, 150, 203);}}
-
-blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
+blockquote { background: var(--gb-bg); border-left: 2px solid var(--gb-accent); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
 .publications { margin-top: 2rem; }
 
-.publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
+.publications h1 { color: var(--gb-accent); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
 .publications h2 { margin-bottom: 1rem; }
 
 .publications h2 span { font-size: 1.5rem; }
 
-.publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
+.publications h2.year { color: var(--gb-fg-muted); border-top: 1px solid var(--gb-border); margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
 
 .publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
 
@@ -42,30 +38,35 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
-.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
+.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--gb-badge); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
 
-.publications ol.bibliography li .abbr abbr a { color: white; }
+.publications ol.bibliography li .abbr abbr a { color: var(--gb-on-accent); }
 
 .publications ol.bibliography li .abbr abbr a:hover { text-decoration: none; }
 
-.publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
+.publications ol.bibliography li .abbr .award { color: var(--gb-accent) !important; border: 1px solid var(--gb-accent); }
 
 .publications ol.bibliography li .title { font-weight: bolder; }
+.publications ol.bibliography li .title a       { color: var(--gb-accent); }
 
-.publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
+
+.publications ol.bibliography li .author a { border-bottom: 1px var(--gb-accent); }
 
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
 
 .publications ol.bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
 
-.publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
+.publications ol.bibliography li .links a.btn { color: var(--gb-action); border: 1px solid var(--gb-action); padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
 
-@media (prefers-color-scheme: dark) {
-.publications ol.bibliography li .links a.btn { color: #FFFFFF; border: 1px solid #FFFFFF; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
 
-  }
+/* Only an award gets colour - it is the exception worth spotting. The paper
+   type is already spelled out in the badge and in the note itself. */
+.publications ol.bibliography li .links .pub-note.note-award { color: var(--gb-award); font-weight: 600; }
 
-.publications ol.bibliography li .links a.btn:hover { color: var(--global-theme-color); border-color: var(--global-theme-color); }
+.publications ol.bibliography li .periodical em { color: var(--gb-fg-muted); }
+
+
+.publications ol.bibliography li .links a.btn:hover { color: var(--gb-accent-alt); border-color: var(--gb-accent-alt); }
 
 .publications ol.bibliography li .hidden { font-size: 0.875rem; max-height: 0px; overflow: hidden; text-align: justify; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
 
@@ -75,8 +76,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .hidden.open { max-height: 100em; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
 
-.publications ol.bibliography li div.abstract.hidden { border: dashed 1px var(--global-bg-color); }
+.publications ol.bibliography li div.abstract.hidden { border: dashed 1px var(--gb-bg); }
 
-.publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
+.publications ol.bibliography li div.abstract.hidden.open { border-color: var(--gb-fg); }
 
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px var(--gb-shadow); height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }

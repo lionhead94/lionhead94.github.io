@@ -4,6 +4,8 @@
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
+{%- assign notes_lc = link.notes | downcase -%}
+{%- if notes_lc contains "award" -%}{%- assign note_class = "note-award" -%}{%- else -%}{%- assign note_class = "" -%}{%- endif -%}
 
 <li>
     <div class="pub-row">
@@ -34,7 +36,7 @@
             <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
             {% endif %}
             {% if link.notes %}
-            <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+            <strong> <i class="pub-note {{ note_class }}">{{ link.notes }}</i></strong>
             {% endif %}
             {% if link.others %}
             {{ link.others }}
